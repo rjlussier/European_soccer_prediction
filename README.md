@@ -8,5 +8,8 @@ European soccer  is big business. The ‘big five’ leagues, made up by England
 Some of the data files are too large for uploading to github. If you'd like to explore them, with my project code they can be downloaded from the following link.
 https://figshare.com/collections/Soccer_match_event_dataset/4415000/3
 
-### EDA
-[EDA](https://github.com/rjlussier/European_soccer_prediction/blob/master/Soccer_EDA_Data_Story.ipynb)
+### [Data Wrangling](https://github.com/rjlussier/European_soccer_prediction/blob/master/Soccer_Data_Wrangling.ipynb)
+
+### [Exploratory Data Analysis](https://github.com/rjlussier/European_soccer_prediction/blob/master/Soccer_EDA_Data_Story.ipynb)
+
+### [Machine Learning](https://github.com/rjlussier/European_soccer_prediction/blob/master/Soccer_Machine_Learning.ipynb)
