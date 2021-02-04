@@ -11,6 +11,7 @@ https://figshare.com/collections/Soccer_match_event_dataset/4415000/3
 ### [Data Wrangling](https://github.com/rjlussier/European_soccer_prediction/blob/master/Soccer_Data_Wrangling.ipynb)
 
 ### [Exploratory Data Analysis](https://github.com/rjlussier/European_soccer_prediction/blob/master/Soccer_EDA_Data_Story.ipynb)
-![Event Distribution Comparison](data/Pitch Event Distribution Comparisson.png?raw=true "Event Distribution")
+This chart compares the distribution of events accross the football pitch between Manchester City and West Bromwich Albion. 
+![Event Distribution Comparison Image](data/PitchEventDistributionComparison.png)
 
 ### [Machine Learning](https://github.com/rjlussier/European_soccer_prediction/blob/master/Soccer_Machine_Learning.ipynb)
