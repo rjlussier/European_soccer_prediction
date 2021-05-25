@@ -11,7 +11,10 @@ https://figshare.com/collections/Soccer_match_event_dataset/4415000/3
 ### [Data Wrangling](https://github.com/rjlussier/European_soccer_prediction/blob/master/Soccer_Data_Wrangling.ipynb)
 
 ### [Exploratory Data Analysis](https://github.com/rjlussier/European_soccer_prediction/blob/master/Soccer_EDA_Data_Story.ipynb)
-This chart compares the distribution of events accross the football pitch between Manchester City and West Bromwich Albion. 
+First let's see which how each Premier League team fared in terms of wins/draws/losses over the season. We see that Manchester City lead the league while West Bromwich Albion (WBA) was in last place.
+![WDL Histogram Image](data/WDLHistogram.png)
+
+Comparing the distribution of events accross the football pitch between Manchester City and West Bromwich Albion. This comparison shows Manchester City playing a more offensive game whereas WBA seems to play more of its games on the defense. 
 ![Event Distribution Comparison Image](data/PitchEventDistributionComparison.png)
 
 ### [Machine Learning](https://github.com/rjlussier/European_soccer_prediction/blob/master/Soccer_Machine_Learning.ipynb)
